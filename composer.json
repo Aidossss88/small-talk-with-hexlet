@@ -7,6 +7,12 @@
         "./sayHi",
         "./sayBye"
     ],
+    "autoload": {
+        "files": [
+            "bin/sayHi.php",
+            "bin/sayBye.php"
+        ]
+    },
     "authors": [
         {
             "name": "aidos",
