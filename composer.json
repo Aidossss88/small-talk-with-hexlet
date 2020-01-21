@@ -8,9 +8,9 @@
         "./sayBye"
     ],
     "autoload": {
-        "files": [
-            "bin/sayHi.php",
-            "bin/sayBye.php"
+        "bin": [
+            "./sayHi.php",
+            "./sayBye.php"
         ]
     },
     "authors": [
